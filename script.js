@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Descubra: Seu perfil católico é mais Tradicional ou Carismático?                                                  1. Como você percebe a ação do Espírito Santo em sua vida?",
+        enunciado: "1. Como você percebe a ação do Espírito Santo em sua vida?",
         alternativas: [
             {
                 texto: "Através dos sacramentos, da liturgia e da fidelidade cotidiana à doutrina da Igreja.",
