@@ -6,46 +6,46 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "O cyberbullying é a violência virtual que ocorre geralmente com as pessoas tímidas e indefesas, ou simplesmente por não caírem na simpatia das mesmas. Como podemos evitá-lo",
+        enunciado: "Descubra: Seu perfil católico é mais Tradicional ou Carismático? 1. Como você percebe a ação do Espírito Santo em sua vida?",
         alternativas: [
             {
-                texto: "Utilizando palestras para prevenir o cyberbullying nas escolas.",
-                afirmacao: "Você é uma pessoa reflexiva e busca aprendizado e conhecimento."
+                texto: "Através dos sacramentos, da liturgia e da fidelidade cotidiana à doutrina da Igreja.",
+                afirmacao: "Sua espiritualidade é profundamente enraizada na tradição da Igreja. Você encontra Deus na beleza dos ritos, na solidez da doutrina e na riqueza do silêncio. Sua fé é como uma rocha firme: constante, reverente e fiel."
             },
             {
-                texto:  "Prestando atenção aos sinais de cyberbullying nas escolas.",
-                afirmacao: "Você é uma pessoa observadora, pois se preocupa com o bem estar dos seus alunos."
+                texto:  "Através de momentos de oração intensa, escuta profética e dons espirituais visíveis.",
+                afirmacao: "Através de momentos de oração intensa, escuta profética e dons espirituais visíveis."
             }    
            
         ]
     },
     {
        
-            enunciado: "As fontes renováveis de energia são aquelas formas de produção de energia em que suas fontes são capazes de manter-se disponíveis durante um longo prazo, contando com recursos que se regeneram ou que se mantêm ativos permanentemente. Com base nisso, temos a energia geotérmica, que consiste em utilizar o calor manifestado em áreas próximas à superfície. Qual a sua opinião sobre esse modelo de energia renovável?",
+            enunciado: "O que mais te eleva espiritualmente durante Santa missa?",
             alternativas: [
                 {
-                    texto: "A energia geotérmica precisa ser mais explorada visto que utiliza o calor interno da terra, pois não depende do clima e é inesgotável.",
-                    afirmacao: "Você demonstra um perfil  de pesquisador e inovador que busca por meio da inovação soluções para o meio ambiente e sustentabilidade das gerações posteriores."
+                    texto: "O silêncio reverente, a profundidade das orações e a centralidade da Eucaristia.",
+                    afirmacao: "Sua espiritualidade é profundamente enraizada na tradição da Igreja. Você encontra Deus na beleza dos ritos, na solidez da doutrina e na riqueza do silêncio. Sua fé é como uma rocha firme: constante, reverente e fiel."
                 },
                 {
-                    texto:  "Seria interessante explorar primeiramente fontes renováveis exotérmicas, em segundo plano utilizar a energia geotérmica apesar dos custos elevados de explorações e possibilidades de contaminação de rios. ",
-                    afirmacao: "Você é uma pessoa que dá ênfase em priorizar os recursos disponíveis, pensando no meio ambiente e sem descartar o viés econômico."
+                    texto:  "Os momentos de louvor, as pregações fervorosas e a participação comunitária ativa. ",
+                    afirmacao: "Sua fé é vivida com entusiasmo e abertura à ação do Espírito Santo de forma sensível. A oração em comunidade, os carismas e os momentos de louvor renovam sua vida espiritual com vigor. Sua fé é como um fogo: viva, alegre e contagiante."
                 }    
                
             ]
         },
         {
-            enunciado: "Hoje em dia é cada vez mais importante conhecer o seu corpo, suas qualidades, suas limitações e entender suas emoções. Saber controlá-las é o desafio das pessoas. A sua auto-estima impacta a sua qualidade de vida?",
+            enunciado: "Quando você sente que está mais próximo de Deus?",
 
             alternativas: [
                 {
-                    texto: "Na maior parte do tempo, com certeza impacta, pois é a partir da autoestima que temos um olhar positivo ou negativo sobre nossas ações diárias. Sempre estou em busca de mais autoconhecimento.",
-                    afirmacao: "Você tem consciência que é importante ter uma boa auto-estima e procura se aprofundar mais sobre o assunto, vendo a vida de um jeito positivo."
+                    texto: "Quando me abandono em silêncio diante do Santíssimo, sentindo Sua presença sem palavras, deixando que Ele fale na profundidade da alma.",
+                    afirmacao: "Sua espiritualidade é profundamente enraizada na tradição da Igreja. Você encontra Deus na beleza dos ritos, na solidez da doutrina e na riqueza do silêncio. Sua fé é como uma rocha firme: constante, reverente e fiel."
                 },
                 {
-                    texto:    "Apenas ocasionalmente ou raramente. Às vezes minha autoestima oscila e isso pode afetar negativamente minha qualidade de vida em certas ocasiões.",
+                    texto:    "Quando sou tomado por uma oração viva, espontânea, sentindo o Espírito Santo agir com força interior, me impulsionando a louvar e escutar com o coração aberto.",
                
-                    afirmacao: "Você demomostra que precisa se conhecer mais e mostra uma consciência de uma crescente necessidade de cuidar mais da própria percepção e bem-estar emocional."
+                    afirmacao: "Quando sou tomado por uma oração viva, espontânea, sentindo o Espírito Santo agir com força interior, me impulsionando a louvar e escutar com o coração aberto."
                 }    
                
             ]
