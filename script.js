@@ -6,46 +6,46 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "1. Como você percebe a ação do Espírito Santo em sua vida?",
+        enunciado: "1.Qual flor escolheria para um presente clássico e elegante?",
         alternativas: [
             {
-                texto: "Através dos sacramentos, da liturgia e da fidelidade cotidiana à doutrina da Igreja.",
-                afirmacao: "Sua espiritualidade é profundamente enraizada na tradição da Igreja. Você encontra Deus na beleza dos ritos, na solidez da doutrina e na riqueza do silêncio. Sua fé é como uma rocha firme: constante, reverente e fiel."
+                texto: "Rosas vermelhas, pela sua tradição e pelo significado universal de paixão..",
+                afirmacao: "O perfil de quem escolhe rosas é focado na tradição, valorizando o que é atemporal e universalmente reconhecido para expressar sentimentos."
             },
             {
-                texto:  "Através de momentos de oração intensa, escuta profética e dons espirituais visíveis.",
-                afirmacao: "Através de momentos de oração intensa, escuta profética e dons espirituais visíveis."
+                texto:  "Uma orquídea branca, pela sua sofisticação e beleza exótica.",
+                afirmacao: "O perfil de quem escolhe orquídeas é focado na originalidade, buscando o que é distinto e sofisticado para transmitir uma mensagem especial."
             }    
            
         ]
     },
     {
        
-            enunciado: "O que mais te eleva espiritualmente durante Santa missa?",
+            enunciado: "Em qual flor você investiria para decorar sua casa a longo prazo?",
             alternativas: [
                 {
-                    texto: "O silêncio reverente, a profundidade das orações e a centralidade da Eucaristia.",
-                    afirmacao: "Sua espiritualidade é profundamente enraizada na tradição da Igreja. Você encontra Deus na beleza dos ritos, na solidez da doutrina e na riqueza do silêncio. Sua fé é como uma rocha firme: constante, reverente e fiel."
+                    texto: "Rosas em vasos, renovando o buquê para manter a vitalidade e o aroma.",
+                    afirmacao: "O perfil de quem escolhe rosas para decoração gosta da renovação e da sensação imediata que as flores trazem, priorizando o frescor e o aroma."
                 },
                 {
-                    texto:  "Os momentos de louvor, as pregações fervorosas e a participação comunitária ativa. ",
-                    afirmacao: "Sua fé é vivida com entusiasmo e abertura à ação do Espírito Santo de forma sensível. A oração em comunidade, os carismas e os momentos de louvor renovam sua vida espiritual com vigor. Sua fé é como um fogo: viva, alegre e contagiante."
+                    texto:  "Uma orquídea em vaso, cuidando para que ela floresça novamente. ",
+                    afirmacao: "O perfil de quem escolhe orquídeas valoriza a durabilidade e o cuidado a longo prazo, apreciando a beleza que se mantém ao longo do tempo."
                 }    
                
             ]
         },
         {
-            enunciado: "Quando você sente que está mais próximo de Deus?",
+            enunciado: "Qual flor você usaria para expressar sentimentos complexos?",
 
             alternativas: [
                 {
-                    texto: "Quando me abandono em silêncio diante do Santíssimo, sentindo Sua presença sem palavras, deixando que Ele fale na profundidade da alma.",
-                    afirmacao: "Sua espiritualidade é profundamente enraizada na tradição da Igreja. Você encontra Deus na beleza dos ritos, na solidez da doutrina e na riqueza do silêncio. Sua fé é como uma rocha firme: constante, reverente e fiel."
+                    texto: " Rosas de cores diferentes para expressar diferentes sentimentos, como amizade (amarelas) ou admiração (rosas).",
+                    afirmacao: "O perfil de quem escolhe rosas expressa-se com clareza, usando símbolos já estabelecidos para comunicar seus sentimentos de forma direta."
                 },
                 {
-                    texto:    "Quando sou tomado por uma oração viva, espontânea, sentindo o Espírito Santo agir com força interior, me impulsionando a louvar e escutar com o coração aberto.",
+                    texto:    "Uma orquídea rara e única, para representar uma conexão especial e profunda.",
                
-                    afirmacao: "Quando sou tomado por uma oração viva, espontânea, sentindo o Espírito Santo agir com força interior, me impulsionando a louvar e escutar com o coração aberto."
+                    afirmacao: "O perfil de quem escolhe orquídeas expressa-se com sutileza, buscando um gesto único para transmitir a profundidade de seus sentimentos."
                 }    
                
             ]
